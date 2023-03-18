@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.nature.com/articles/s41562-023-01537-5">Political Endorsement by </a><em>Nature</em> and Trust in Scientific Expertise During COVID-19</div>
+    <div class="title"><a href="https://www.nature.com/articles/s41562-023-01537-5">Political Endorsement by <em>Nature</em> and Trust in Scientific Expertise During COVID-19</a></div>
     <div class="periodical"><a href="https://www.nature.com/nathumbehav/"><em>Nature Human Behaviour</em></a>, 2023</div>
   </div>
 </div>
