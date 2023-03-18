@@ -1,4 +1,4 @@
-## Journal Reviewers
+## Referee Services
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.springer.com/journal/712"><em>Journal of Economics</em></a></li>
