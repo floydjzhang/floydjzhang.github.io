@@ -25,8 +25,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://drive.google.com/file/d/1J3fqhgxGi64kLqFaZu9l81_fVIXG8_5o/view">Selective Exposure and Electoral Competition</a> (with <a href="https://www.aviditacharya.com">Avidit Acharya</a>, <a href="https://sites.google.com/view/pbuisseret/home?pli=1">Peter Buisseret</a>, and <a href="https://politicalscience.yale.edu/people/adam-meirowitz">Adam Meirowitz</a>)</div>
   </div>
-      <div class="periodical"><a href="https://www.nature.com/nathumbehav/"><i>Under review, 2023</i></a></div>
+      <div class="periodical"><i>Under review, 2023</i><class/div>
   <div class="abstract"> We theoretically study how selective exposure to information affects electoral competition and policy polarization by analyzing a Calvert-Wittman probabilistic voting model in which voters only receive valence information slanted to confirm their predispositions. Existing work predicts that selective exposure intensifies policy polarization. We instead show that it reduces policy polarization relative to a benchmark where voters all consume information from a neutral source. The result is robust to assuming non-Bayesian voters who are systematically manipulated by slanted signals.  </div>
+</div>
 </div>
 </li>
   
