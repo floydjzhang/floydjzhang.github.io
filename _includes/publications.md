@@ -41,7 +41,10 @@
 <ol class="bibliography">
 
 
-  <div class="pub-row">
+
+
+<li>
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cd.png" class="teaser img-fluid z-depth-1">
   </div>
@@ -51,7 +54,6 @@
   </div>
 </div>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/IC.png" class="teaser img-fluid z-depth-1">
@@ -61,7 +63,7 @@
     <div class="title"><span style="font-weight: bolder;">Nationalism and Preferences for Redistribution in Autocracies: Theory and Experimental Evidence</span></div>
   </div>
 </div>
-
+</li>
   
 <br>
 
