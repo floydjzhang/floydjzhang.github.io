@@ -1,5 +1,5 @@
 ## Teaching
-
+Worked as a teaching assistant for:
 <ul style="margin:0 0 20px;">
   <li><em>POLECON 680</em>, Foundations of Political Economy (PhD-level, Fall 2019, 2020, Stanford)</li>
   <li><em>POLECON 681</em>, Economic Analysis of Political Institutions (PhD-level, Winter 2019, 2020, Stanford)</li>
