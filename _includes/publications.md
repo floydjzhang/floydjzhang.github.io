@@ -12,7 +12,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span style="font-weight: bolder;"><a href="https://www.nature.com/articles/s41562-023-01537-5">Political Endorsement by <i>Nature</i> and Trust in Scientific Expertise During COVID-19</a></span></div>
-    <div class="periodical"><a href="https://www.nature.com/nathumbehav/"><em>Nature Human Behaviour</em></a> (2023)</div>
+    <div class="periodical"><em>Nature Human Behaviour</em> (2023)</div>
         <div class="abstract">In a large-sample pre-registered online experiment, participants were randomly assigned to receive information about the journal <i>Nature</i>'s political endorsement. The informational treatment substantially reduced and polarized confidence in <i>Nature</i> and the scientific community among participants, and the behavioral impacts of this belief update includes 38.3% lower demand for public health information attributed to <i>Nature</i>. </div>
   </div>
 </div>
@@ -51,8 +51,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span style="font-weight: bolder;">Rage Against the Merchant: The Effect of Job Automation on Trade Protection</span></div>
-        <div class="abstract"> Using a shift-share instrument variable exploiting differential exposures to industrial robot across industries, I find suggestive causal evidence that U.S. House members representing labor markets more exposed to robot vote for more restrictive trade policies. The magnitude of the effect of automation on protectionism is quantitatively similar to experiencing an import shock of similar labor market impact. This effect is driven by incumbent response instead of electoral selection and is more pronounced in low-information media markets. I interpret the results as systematical misattribution of labor market disruption but also discuss caveats and weakness concerning the interpretation and the IV strategy.  </div>
-  </div>
+        <div class="abstract"> Using a shift-share instrumental variable exploiting differential penatration of industrial robot across industries, I find suggestive causal evidence that U.S. House members representing labor markets more exposed to automation vote for more restrictive trade policies. The magnitude of the effect of robots on protectionism is quantitatively similar to experiencing an import shock of comparably large labor market impact. This effect is driven by incumbent response instead of electoral selection and is more pronounced in low-information media markets. I interpret the results as systematic misattribution of labor market disruption but also discuss caveats concerning the interpretation and the IV strategy.  </div>
   </div>
 </div>
 
@@ -63,7 +62,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span style="font-weight: bolder;">Nationalism and Preferences for Redistribution in Autocracies: The Opioid of the Masses?</span></div>
-        <div class="abstract"> Why do dictators promote nationalism? I developed a simple model of endogenous identity formation in a stylized autocratic political economy where here distributive conflicts are resolved by the threat of revolution. I show that the salience of national identity reduces citizen's demand for income redistribution and political power, and that the structural parameters can be identified econometrically with a random utility model and a factorial survey experiment. Equilibrium implications of these behavioral predictions on growth and inequality are derived and discussed in relations to existing work on social identity, authoritarian growth and control. </div>
+        <div class="abstract"> Why do autocrats promote nationalism? I present a simple model of endogenous identity formation in a stylized autocratic political economy where distributive conflicts are resolved by the threat of revolution. I show that the salience of national identity reduces citizen demand for income redistribution and political power, and that the structural parameters can be identified econometrically with a random utility model and a factorial survey experiment. Equilibrium implications of these behavioral predictions for growth and inequality are derived and discussed in relations to existing work on redistribution, authoritarian growth and control. </div>
   </div>
 </div>
 </li>
