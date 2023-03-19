@@ -1,5 +1,4 @@
-## Teaching
-Worked as a teaching assistant and/or teaching staff for:
+## Teaching Assisant and Staff
 <ul style="margin:0 0 20px;">
   <li>Stanford GSB POLECON 680: Foundations of Political Economy (PhD; 2019 & 2020)</li>
   <li>Stanford GSB POLECON 681: Economic Analysis of Political Institutions (PhD; 2019 & 2020)</li>

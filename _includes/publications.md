@@ -51,13 +51,13 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span style="font-weight: bolder;">Rage Against the Merchant: The Effect of Job Automation on Trade Protection</span></div>
-        <div class="abstract"> Using a shift-share instrumental variable exploiting differential penatration of industrial robot across industries, I find suggestive causal evidence that U.S. House members representing labor markets more exposed to automation vote for more restrictive trade policies. The magnitude of the effect of robots on protectionism is quantitatively similar to experiencing an import shock of comparably large labor market impact. This effect is driven by incumbent response instead of electoral selection and is more pronounced in low-information media markets. I interpret the results as systematic misattribution of labor market disruption but also discuss caveats concerning the interpretation and the IV strategy.  </div>
+        <div class="abstract"> Using a shift-share instrumental variable exploiting differential penatration of industrial robot across industries, I find suggestive causal evidence that U.S. Congress members representing labor markets more exposed to automation vote for more restrictive trade policies. The magnitude of the effect of robots on protectionism is quantitatively similar to experiencing an import shock of comparably large labor market impact. This effect is driven by incumbent response instead of electoral selection and is more pronounced in low-information media markets. I interpret the results as systematic misattribution of labor market disruptions but also discuss caveats concerning the interpretation and the IV strategy.  </div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/IC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/IC_text.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
