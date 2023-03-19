@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an economist based in the San Francisco Bay Area. I work on economics and algorithms at Instacart, where I am an economist and machine learning engineer. Prior to Instacart, I received my PhD from Stanford University's Graduate School of Business in 2022, where I pursued quantitative research on the economics of political institutions and behaviours. I hold bachelors' (2016) and master's (2017) degrees from the Vancouver School of Economics at the University of British Columbia .
+I am an economist based in the San Francisco Bay Area. I work on economics and algorithms at Instacart, where I am an economist and machine learning engineer. Prior to Instacart, I received my PhD from Stanford University's Graduate School of Business in 2022, where I pursued quantitative research on the economics of political institutions and behaviours. I hold bachelors' and master's degrees from the Vancouver School of Economics at the University of British Columbia .
 
 <!-- ## Research Interests
 
