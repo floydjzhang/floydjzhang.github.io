@@ -24,8 +24,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span style="font-weight: bolder;"><a href="https://drive.google.com/file/d/1J3fqhgxGi64kLqFaZu9l81_fVIXG8_5o/view">Selective Exposure and Electoral Competition</a></span> (with <a href="https://www.aviditacharya.com">Avidit Acharya</a>, <a href="https://sites.google.com/view/pbuisseret/home?pli=1">Peter Buisseret</a>, and <a href="https://politicalscience.yale.edu/people/adam-meirowitz">Adam Meirowitz</a>)</div>
-    <div class="periodical"><i>Under review</i>, 2023</div>
-    <div class="abstract">We theoretically study how selective exposure to information affects electoral competition and policy polarization by analyzing a Calvert-Wittman probabilistic voting model in which voters only receive valence information slanted to confirm their predispositions. Existing work predicts that selective exposure intensifies policy polarization. We instead show that it reduces policy polarization relative to a benchmark where voters all consume information from a neutral source. The result is robust to assuming non-Bayesian voters who are systematically manipulated by slanted signals. </div>
+    <div class="periodical"><i>Under review</i></div>
+    <div class="abstract">We theoretically study how selective exposure to information affects electoral competition and policy polarization by analyzing a Calvert-Wittman probabilistic voting model in which voters only receive valence information slanted to confirm their predispositions. Contrary to predictions of existing work, we show that it reduces policy polarization relative to a benchmark where voters all consume information from a neutral source. The result is robust to non-Bayesian voters who are systematically manipulated by biased signals. </div>
   </div>
 </div>
 </li>
@@ -51,6 +51,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span style="font-weight: bolder;">Rage Against the Merchant: The Effect of Job Automation on Trade Protection</span></div>
+        <div class="abstract"> Using a shift-share instrument variable exploiting differential exposures to industrial robot across industries, I find suggestive causal evidence that U.S. House members representing labor markets more exposed to robot vote for more restrictive trade policies. The magnitude of the effect of automation on protectionism is quantitatively similar to experiencing an import shock of similar labor market impact. This effect is driven by incumbent response instead of electoral selection and is more pronounced in low-information media markets. I interpret the results as systematical misattribution of labor market disruption but also discuss caveats and weakness concerning the interpretation and the IV strategy.  </div>
+  </div>
   </div>
 </div>
 
@@ -60,7 +62,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><span style="font-weight: bolder;">Nationalism and Preferences for Redistribution in Autocracies: Theory and Experimental Evidence</span></div>
+    <div class="title"><span style="font-weight: bolder;">Nationalism and Preferences for Redistribution in Autocracies: The Opioid of the Masses?</span></div>
+        <div class="abstract"> Why do dictators promote nationalism? I developed a simple model of endogenous identity formation in a stylized autocratic political economy where here distributive conflicts are resolved by the threat of revolution. I show that the salience of national identity reduces citizen's demand for income redistribution and political power, and that the structural parameters can be identified econometrically with a random utility model and a factorial survey experiment. Equilibrium implications of these behavioral predictions on growth and inequality are derived and discussed in relations to existing work on social identity, authoritarian growth and control. </div>
   </div>
 </div>
 </li>
