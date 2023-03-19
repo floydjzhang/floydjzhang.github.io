@@ -28,9 +28,6 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
-.abstract {
-  margin-bottom: 15px;
-}
 
 .publications { margin-top: 2rem; }
 
