@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><span style="font-weight: bolder;"><a href="https://www.nature.com/articles/s41562-023-01537-5">Political Endorsement by <i>Nature</i> and Trust in Scientific Expertise During COVID-19</a></div></span>
+    <div class="title"><span style="font-weight: bolder;"><a href="https://www.nature.com/articles/s41562-023-01537-5">Political Endorsement by <i>Nature</i> and Trust in Scientific Expertise During COVID-19</a></span></div>
     <div class="periodical"><a href="https://www.nature.com/nathumbehav/"><em>Nature Human Behaviour</em></a> (2023)</div>
         <div class="abstract">In a large-sample pre-registered online experiment, participants were randomly assigned to receive information about the journal <i>Nature</i>'s political endorsement. The informational treatment substantially reduced and polarized confidence in <i>Nature</i> and the scientific community among participants, and the behavioral impacts of this belief update includes 38.3% lower demand for public health information attributed to <i>Nature</i>. </div>
   </div>
