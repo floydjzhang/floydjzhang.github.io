@@ -16,6 +16,7 @@
         <div class="abstract">In a large-sample pre-registered online experiment, participants were randomly assigned to receive information about the journal <i>Nature</i>'s political endorsement. The informational treatment substantially reduced and polarized confidence in <i>Nature</i> and the scientific community among participants, and the behavioral impacts of this belief update includes 38.3% lower demand for public health information attributed to <i>Nature</i>. </div>
   </div>
 </div>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/selective_exposure.png" class="teaser img-fluid z-depth-1">
