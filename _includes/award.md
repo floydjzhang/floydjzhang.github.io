@@ -1,4 +1,4 @@
-## Selected Grants and Awards
+## Select Grants and Awards
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://iriss.stanford.edu/people/floyd-jiuyun-zhang"><em>American Democracy Fellowship</em></a>, Stanford Institute for Research in the Social Sciences (IRiSS), 2021.</li>
