@@ -28,6 +28,7 @@
       <br>
    </ol>
 </div>
+
 <h2 id="publications" style="margin: 2px 0px -15px;">Patents</h2>
 <div class="publications">
    <ol class="bibliography">
@@ -43,7 +44,9 @@
          </div>
       </div>
    </li>
+</ol>
 </div>
+
 <h2 id="publications" style="margin: 2px 0px -15px;">Work in Progress</h2>
 <div class="publications">
    <ol class="bibliography">
@@ -59,7 +62,7 @@
          </div>
          <div class="pub-row">
             <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-               <img src="assets/img/IC_text.png" class="teaser img-fluid z-depth-1">
+               <img src="assets/img/IC.png" class="teaser img-fluid z-depth-1">
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
                <div class="title"><span style="font-weight: bolder;">Nationalism and Preferences for Redistribution in Autocracies: The Opioid of the Masses?</span></div>
