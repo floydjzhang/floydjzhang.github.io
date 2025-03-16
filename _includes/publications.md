@@ -56,7 +56,7 @@
         <div class="abstract"> A system generates text artifacts using a machine learned language model. The text artifacts may be provided to a search engine for providing to users along with search results. The system iteratively improves the set of text artifacts by performing the following steps. The system updates the prompt used to generate the text artifacts based on the performance of the text artifacts to obtain a new prompt. The system executes the machine learned language model using the new prompt to generate a new set of text artifacts. The system evaluates the new set of text artifacts to determine performance of each of the new set of text artifacts. These steps are repeatedly performed to improve the set of text artifacts. </div>
   </div>
 </div>
-
+</div>
 </li>
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Work in Progress</h2>
