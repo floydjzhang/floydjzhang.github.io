@@ -17,6 +17,7 @@
          <div class="pub-row">
             <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
                <img src="assets/img/compstat_se.png" class="teaser img-fluid z-depth-1">
+               <abbr class="badge">Journal of Politics</abbr>
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
                <div class="title"><span style="font-weight: bolder;"><a href="https://floydjzhang.github.io/ABMZ.pdf">Selective Exposure and Electoral Competition</a></span> (with <a href="https://www.aviditacharya.com">Avidit Acharya</a>, <a href="https://sites.google.com/view/pbuisseret/home?pli=1">Peter Buisseret</a>, and <a href="https://politicalscience.yale.edu/people/adam-meirowitz">Adam Meirowitz</a>)</div>
