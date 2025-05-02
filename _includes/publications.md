@@ -20,8 +20,8 @@
                <abbr class="badge">Journal of Politics</abbr>
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-               <div class="title"><span style="font-weight: bolder;"><a href="https://floydjzhang.github.io/ABMZ.pdf">Selective Exposure and Electoral Competition</a></span> (with <a href="https://www.aviditacharya.com">Avidit Acharya</a>, <a href="https://sites.google.com/view/pbuisseret/home?pli=1">Peter Buisseret</a>, and <a href="https://politicalscience.yale.edu/people/adam-meirowitz">Adam Meirowitz</a>)</div>
-               <div class="periodical">Forthcoming,  <em>Journal of Politics</em></div>
+               <div class="title"><span style="font-weight: bolder;"><a href="https://floydjzhang.github.io/ABMZ.pdf">Selective Exposure and Electoral Competition</a></span> (with <a href="https://sites.google.com/view/aviditacharya/home">Avidit Acharya</a>, <a href="https://sites.google.com/view/pbuisseret/home?pli=1">Peter Buisseret</a>, and <a href="https://politicalscience.yale.edu/people/adam-meirowitz">Adam Meirowitz</a>)</div>
+               <div class="periodical"><em>Journal of Politics</em> (2025)</div>
                <div class="abstract">We theoretically study how selective information exposure affects electoral competition and policy polarization by analyzing a Calvert-Wittman probabilistic voting model in which voters only receive valence information slanted to confirm their predispositions. Contrary to predictions of prior works, it reduces policy polarization relative to a benchmark where voters all consume information from a neutral source. The result is robust to non-Bayesian voters who are systematically manipulated by biased signals. </div>
             </div>
          </div>
