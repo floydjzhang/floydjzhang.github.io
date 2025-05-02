@@ -36,6 +36,7 @@
       <div class="pub-row">
          <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <img src="assets/img/text.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">U.S. Patent App</abbr>
          </div>
          <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><span style="font-weight: bolder;"><a href="https://patents.google.com/patent/US20250077976A1/en">Reinforcement Learning-based Optimization of Textual Artifacts Using Generative Artificial Intelligence</a></span> (with <a href="https://sites.google.com/site/tdrerup">Tilman Drerup</a>)</div>
