@@ -50,9 +50,6 @@
    <ol class="bibliography">
    <li>
       <div class="pub-row">
-         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-            <abbr class="badge">U.S. Patent App</abbr>
-         </div>
          <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><span style="font-weight: bolder;"><a href="https://patents.google.com/patent/US20250238823A1/en">Simulating A/B testing through large language machine-learned models</a></span> (with <a href="https://www.linkedin.com/in/tilman-drerup-1661a810b/">Tilman Drerup</a> and <a href="https://www.linkedin.com/in/leviboxell/">Levi Boxell</a>)</div>
             <div class="periodical"><em>U.S. Patent App.</em> 18/421,888 (2025)</div>
