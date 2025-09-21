@@ -48,6 +48,23 @@
 </ol>
 </div>
 
+<div class="publications">
+   <ol class="bibliography">
+   <li>
+      <div class="pub-row">
+         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">U.S. Patent App</abbr>
+         </div>
+         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><span style="font-weight: bolder;"><a href="https://patents.google.com/patent/US20250238823A1/en">Simulating A/B testing through large language machine-learned models</a></span> (with <a href="https://www.linkedin.com/in/tilman-drerup-1661a810b/">Tilman Drerup</a> and <a href="https://www.linkedin.com/in/leviboxell/">Levi Boxell</a>)</div>
+            <div class="periodical"><em>U.S. Patent App.</em> 18/421,888 (2025)</div>
+            <div class="abstract"> An online system uses Large Language Models (LLM's) to simulate the behavior of real customers in such tests as a low-cost way to simulate A/B tests. A prompt is constructed for a given customer. The prompt is sent to the LLM with a request to infer the predicted outcome of a treatment. The online system collects the output. Statistical analyses are run based on the output of the previous step to determine which treatment to select for the user. </div>
+         </div>
+      </div>
+   </li>
+</ol>
+</div>
+
 <h2 id="publications" style="margin: 2px 0px -15px;">Work in Progress</h2>
 <div class="publications">
    <ol class="bibliography">
